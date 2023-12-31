@@ -1,4 +1,4 @@
-# :white_check_mark: Challenge Verificando Se Um Número é Primo
+**:white_check_mark: Challenge Verificando Se Um Número é Primo
 **Vamos ao enunciado:**
 
 Usuário digita um número natural inteiro e programa verifica se esse é número primo.
@@ -69,3 +69,4 @@ fun exibirResultado(contador:Int){
 ## FIM
 
 Espero ter contribuído, se surgir qualquer dúvida é só me chamar nas redes sociais :raising_hand: [@ThalitaNeri](https://www.linkedin.com/in/thalita-neri-594065178/)
+ 
